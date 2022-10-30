@@ -2,7 +2,7 @@
 
 This code uses your computer webcam to take video then blur any face in the video in real-time
 
-#Requirements:
+# Requirements:
 
 Hardware:
 - Computer 
